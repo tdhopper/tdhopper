@@ -6,12 +6,9 @@ I'm an experienced machine learning engineer and Python developer, hacking away 
 
 ## 👨‍🔬 Professional Interests:
 - Machine Learning & Data Engineering
+- Python Developer Tooling
 - Cloud Infrastructure (AWS)
 - DevOps & Automation
-
-🛠️ **Tech Stack**: 
-- **Highly Proficient**: Python, AWS
-- **Familiar With**: C++, Go, C#, R, SQL, Java, Javascript
   
 🖥️ **Personal Projects**: 
 - [Into the Hopper podcast](https://podcast.tdhopper.com/)
@@ -25,6 +22,6 @@ I'm an experienced machine learning engineer and Python developer, hacking away 
 ## 🌐 Let's Connect:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tdhopper) 
 [![Website](https://img.shields.io/badge/Website-%23323232?&style=flat&logo=internet-archive&logoColor=white)](https://tdhopper.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%23323232?&style=flat&logo=internet-archive&logoColor=white)](https://x.com/tdhopper)
+[![Twitter](https://img.shields.io/badge/Twitter-%23323232?&style=flat&logo=twitter&logoColor=white)](https://x.com/tdhopper)
 
-> 📧 tdhopper@gmail.com • 📍 Raleigh, NC USA
+> 📧 tdhopper@gmail.com • 📍 Raleigh, NC USA • 📞 (919) 473-3145
