@@ -1,16 +1,22 @@
-### Hi there 👋
+# 👋 Hey, I'm Tim Hopper! 
 
-<!--
-**tdhopper/tdhopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an experienced machine learning engineer and Python developer, hacking away at the intersection of tech and data. I specialize in AWS-based cloud infrastructure and ML platforms. Curious about distributed systems, serverless architecture, and ML models that add value to real-world applications. 
 
-Here are some ideas to get you started:
+👨‍💻 **Currently**: Staff Software Engineer, Machine Learning at [Varo Bank](https://www.varomoney.com/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍🔬 Professional Interests:
+- Machine Learning & Data Engineering
+- Cloud Infrastructure (AWS)
+- DevOps & Automation
+
+🛠️ **Tech Stack**: 
+- **Highly Proficient**: Python, AWS
+- **Familiar With**: C++, Go, C#, R, SQL, Java, Javascript
+  
+🎤 **Podcast**: 
+- [Into the Hopper](https://podcast.tdhopper.com/)
+  
+## 🌐 Let's Connect:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/tdhopper) [![Website](https://img.shields.io/badge/Website-%23323232?&style=flat&logo=internet-archive&logoColor=white)](https://tdhopper.com)
+
+> 📧 tdhopper@gmail.com • 📍 Raleigh, NC USA
